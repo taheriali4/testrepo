@@ -7,6 +7,6 @@ class Calc {
   }
 
   public static int sub(int a, int b){
-    return a + b; //this is an error
+    return a - b; 
   }
 }
